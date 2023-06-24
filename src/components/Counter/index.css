@@ -1,0 +1,17 @@
+.counter {
+  text-align: center;
+  color: yellow;
+}
+
+.counter1 {
+  text-align: center;
+  color: #ffffff;
+  padding-top: 50px;
+  font-size: 90px;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
